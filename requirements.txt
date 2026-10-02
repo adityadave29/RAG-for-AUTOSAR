@@ -1,0 +1,17 @@
+# Vector DB & Embeddings
+chromadb>=0.4.24
+sentence-transformers>=2.6.1
+
+# Document Parsers
+pymupdf>=1.24.0
+pypdf>=4.0.0
+
+# Re-ranking & LLM
+flashrank>=0.2.0
+google-genai>=0.1.0
+python-dotenv>=1.0.0
+
+# Utilities & Formatting
+rich>=13.7.0
+tqdm>=4.66.0
+streamlit>=1.32.0
