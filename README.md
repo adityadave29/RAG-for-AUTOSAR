@@ -49,4 +49,7 @@ python main.py ingest --clear
 
 # Check current collection stats
 python main.py status
+
+# Run application
+streamlit run app.py
 ```
